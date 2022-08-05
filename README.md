@@ -17,7 +17,7 @@
 - 5% to LP
 
 ## Social Media
-Telegram: https://t.me/joinfud
+Telegram: [https://t.me/joinfud](https://t.me/joinfud)
 
 ## Lockers
 
