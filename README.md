@@ -4,6 +4,9 @@
 
 [0x80363cc2caa2545554d155031e47049ee2f98f33](https://snowtrace.io/token/0x80363cc2caa2545554d155031e47049ee2f98f33)
 
+## Presale
+[Buy on Coineus](https://coineus.app/#/sale/avax/0x1ed0C2a88c4E76B99bEb9B14ec6e0A1d26742E56)
+
 ## Tokenomics
 
 100,000,000 Total Supply
